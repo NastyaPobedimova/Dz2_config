@@ -37,7 +37,7 @@ cd Dependency_Visualizer
 ```
 5. Запустить dependency_visualizer.py с указанием всех необходимых ключей
 ```
-py main.py plantuml-1.2024.8.jar package.json https://registry.npmjs.org
+py main.py plantuml-1.2024.8.jar package.py dependencery_graph.png
 ```
 # Результат рыботы программы
 
