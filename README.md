@@ -41,7 +41,7 @@ py main.py plantuml-1.2024.8.jar package.py dependencery_graph.png
 ```
 # Результат рыботы программы
 
-![](https://github.com/YG5126/Dependency_Visualizer/blob/main/Test/dependency_graph.png)
+![](https://github.com/NastyaPobedimova/Dz2_config/blob/main/dependencery_graph.png)
 
 # Особенности реализации
 
