@@ -33,7 +33,7 @@ git clone https://github.com/YG5126/Dependency_Visualizer
 ```
 4. Прейти в директорию репозитория
 ```
-cd Dependency_Visualizer
+cd Дз2
 ```
 5. Запустить dependency_visualizer.py с указанием всех необходимых ключей
 ```
@@ -58,4 +58,4 @@ py main.py plantuml-1.2024.8.jar package.py dependencery_graph.png
  - Установленная библиотека PlantUML
 # Общие тесты
 
-![](https://github.com/YG5126/Dependency_Visualizer/blob/main/Test/Common%20tests.png)
+![](https://github.com/NastyaPobedimova/Dz2_config/blob/main/Test_screen.png)
