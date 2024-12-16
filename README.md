@@ -29,11 +29,11 @@
 2. Скачать утилиту PlantUML (https://plantuml.com/ru/download)
 3. Клонировать репозиторий
 ```
-git clone https://github.com/YG5126/Dependency_Visualizer
+git clone https://https://github.com/NastyaPobedimova/Dz2_config
 ```
 4. Прейти в директорию репозитория
 ```
-cd Дз2
+cd Dz2_config
 ```
 5. Запустить dependency_visualizer.py с указанием всех необходимых ключей
 ```
